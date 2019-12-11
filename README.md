@@ -6,4 +6,4 @@ Anggota:
 2. Benny
 
 
-Aplikasi: Jasa Pengirimann
+Aplikasi: Jasa Pengiriman
