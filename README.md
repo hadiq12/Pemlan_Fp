@@ -7,3 +7,5 @@ Anggota:
 
 
 Aplikasi: Jasa Pengiriman
+Sort : Merge sort
+Search : Jump sort
