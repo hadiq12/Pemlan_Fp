@@ -6,3 +6,5 @@ Anggota:
 2. Benny Danendra Hadi (18081010148)
 
 Aplikasi: Jasa Pengiriman
+Sort : Merge sort
+Search : Jump sort
