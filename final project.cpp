@@ -468,22 +468,22 @@ int main(){
 					fflush(stdin);
 					index = jump(tempnoresi, n, ganti);
 					if(index!=-1){
-						dt[n].no_resi = rand() &1001 + 11;
+						dt[index].no_resi = rand() &1001 + 11;
 						fflush(stdin);
 						system("cls");
 						
 						printf("Nama Pengirim            : ");
-						gets(dt[n].nama_pengirim);
+						gets(dt[index].nama_pengirim);
 						fflush(stdin);
 						printf("Alamat Pengirim          : ");
-						gets(dt[n].alm_pengirim);
+						gets(dt[index].alm_pengirim);
 						fflush(stdin);
 				
 						printf("Nama Penerima            : ");
-						gets(dt[n].nama_penerima);
+						gets(dt[index].nama_penerima);
 						fflush(stdin);
 						printf("Alamat Penerima          : ");
-						gets(dt[n].alm_penerima);
+						gets(dt[index].alm_penerima);
 						fflush(stdin);
 				
 						printf("1. Asgard (7751)\n");
@@ -491,22 +491,22 @@ int main(){
 						printf("3. Nilfheim (7753)\n");
 						printf("4. Jotunheim (7754)\n");
 						printf("Pilih ZIP Code Tujuan    : ");
-						scanf("%d",&dt[n].zip_code);
+						scanf("%d",&dt[index].zip_code);
 				
 						printf("1. Fast\n");
 						printf("2. Flash\n");
 						printf("Jenis Pengiriman (nomer) : ");
-						scanf("%d",&dt[n].jns_pengiririman);
+						scanf("%d",&dt[index].jns_pengiririman);
 				
 						printf("Berat Paket              : ");
-						scanf("%d",&dt[n].berat);
+						scanf("%d",&dt[index].berat);
 				
 						printf("Tanggal Pengiriman       : ");
-						scanf("%d",&dt[n].tl.tanggal);
+						scanf("%d",&dt[index].tl.tanggal);
 						printf("Bulan Pengiriman         : ");
-						scanf("%d",&dt[n].tl.bulan);
+						scanf("%d",&dt[index].tl.bulan);
 				
-						dt[n].total = dt[n].berat*5000 + (dt[n].zip_code-7750)*3000 + dt[n].jns_pengiririman*3000;
+						dt[index].total = dt[index].berat*5000 + (dt[index].zip_code-7750)*3000 + dt[index].jns_pengiririman*3000;
 				
 						printf("Data Berhasil Diupdate!");
 						getch();
