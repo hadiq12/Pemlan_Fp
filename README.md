@@ -12,7 +12,7 @@ Tujuan dari Final Project kami:
 . Menciptakan program yang efisien dalam penggunaannya untuk memudahkan penggunanya.
 
 # KESIMPULAN
-Dari penjelasan kami menyimpulkan bahwa Final Project yang kami kerjakan telah mengikuti kaidah pemrograman bahasa C) dengan tambahan metode searching berupa jump search dan metode sorting berupa merge search. Program ini juga menerapkan User Friendly. Hal tersebut dilakukan untuk memudahkan pengguna dalam menggunakan berbagai menu yang telah disediakan. Cukup sekian laporan yang telah kami buat terkait Final Project mata kuliah pemrograman lanjut tentang "Aplikasi Jasa Pengiriman”. Semoga program yang telah kami buat ini dapat membantu banyak orang terutama pengguna baru dalam mempelajari pemograman c dan metode-metode yang kami terapkan di bahasa c tersebut.
+Dari penjelasan kami menyimpulkan bahwa Final Project yang kami kerjakan telah mengikuti kaidah pemrograman bahasa C) dengan tambahan metode searching berupa jump search dan metode sorting berupa merge sort. Program ini juga menerapkan User Friendly. Hal tersebut dilakukan untuk memudahkan pengguna dalam menggunakan berbagai menu yang telah disediakan. Cukup sekian laporan yang telah kami buat terkait Final Project mata kuliah pemrograman lanjut tentang "Aplikasi Jasa Pengiriman”. Semoga program yang telah kami buat ini dapat membantu banyak orang terutama pengguna baru dalam mempelajari pemograman c dan metode-metode yang kami terapkan di bahasa c tersebut.
 Terima kasih
 
 # Anggota Kelompok
